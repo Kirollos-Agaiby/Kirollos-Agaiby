@@ -28,7 +28,7 @@
 
 <!-- Connect with me -->
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com/Kirollos-Agaiby/Kirollos-Agaiby/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<a href="mailto:kirollosagaiby01@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Kirollos-Agaiby"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -44,7 +44,7 @@
 
 <!-- Programming languages -->
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+### <img src = "https://github.com/Kirollos-Agaiby/Kirollos-Agaiby/blob/main/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -84,7 +84,7 @@
 -->
 
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
+### <img src = "https://github.com/Kirollos-Agaiby/Kirollos-Agaiby/blob/main/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -107,7 +107,7 @@
 
 <!-- Software & Tools -->
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+ ### <img src = "https://github.com/Kirollos-Agaiby/Kirollos-Agaiby/blob/main/Software_Tools.gif?raw=true" width=5%>  Software & Tools
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -123,7 +123,7 @@
 
 <!-- IDEs -->
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+ ### <img src = "https://github.com/Kirollos-Agaiby/Kirollos-Agaiby/blob/main/IDEs.gif?raw=true" width=5%> IDEs
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -134,7 +134,7 @@
 
 <!-- Competitive Programming & Problem Solving -->
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
+ ### <img src = "https://github.com/Kirollos-Agaiby/Kirollos-Agaiby/blob/main/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
