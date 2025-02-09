@@ -11,7 +11,6 @@
 - :school: I `graduated` from the Faculty of Computers & Informations at South Valley University.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Vjudge`, `Huckerrank`.
 - ✍🏻 Always learning new things
-- :happy: This is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 <br>
 
 
