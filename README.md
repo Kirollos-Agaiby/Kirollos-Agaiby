@@ -11,7 +11,7 @@
 - :school: I `graduated` from the Faculty of Computers & Informations at South Valley University.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Vjudge`, `Huckerrank`.
 - ✍🏻 Always learning new things
-- 📰 This is [My Resume](https://drive.google.com/file/d/1-K-jUDzi2ui3tOnHWKxCTNM-wb1icg2G/view?usp=sharing).
+- 📰 This is [My Resume](https://drive.google.com/file/d/1qWcjqxmzi8KWD1WBvhTh0OZByxmWya7m/view?usp=sharing).
 <br>
 
 
